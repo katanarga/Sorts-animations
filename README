@@ -1,0 +1,7 @@
+Sorting animations application developped with Kivy.
+
+Features:
+	Create int arrays
+	Shuffle an array
+	Sort an array with different kinds of sort (bubble sort,
+	quick sort,merge sort...) 
